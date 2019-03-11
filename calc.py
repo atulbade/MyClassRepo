@@ -1,5 +1,5 @@
 def add(x,y):
-    pass
+    temp=x+y
 def subtract(x,y):
     pass
 def multiply(x,y):
