@@ -3,7 +3,7 @@ def add(x,y):
     temp=x+y
 
 def subtract(x,y):
-    pass
+    sub=x-y
 def multiply(x,y):
     pass
 def divide(x,y):
